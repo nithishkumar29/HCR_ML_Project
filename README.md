@@ -1,4 +1,4 @@
-# HCR using NEURAL NETWORKS
+# HCR using Neural Networks
 
 
 
